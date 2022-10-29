@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
-<h3 align="center">A passionate iOS Engineer and noob gamer</h3>
+<h3 align="center">A passionate iOS engineer and noob gamer</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedahmed31193" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedahmed31193?logo=twitter&style=for-the-badge" alt="ahmedahmed31193" /></a> </p>
 
