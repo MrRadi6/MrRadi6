@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedahmed31193" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedahmed31193?logo=twitter&style=for-the-badge" alt="ahmedahmed31193" /></a> </p>
 
-- 🌱 I’m currently learning **ARKit, SwiftUI, Combine, and django**
+- 💻 I’m currently a full-time iOS engineer at **Espace For Software Development**
 
-- 📚 I’m currently reading **Clean Code: A Handbook of Agile Software Craftsmanship**
+- 🌱 Learning **ARKit, SwiftUI, Combine, and django**
 
-- 📫 How to reach me **asamir.ahmed01@gmail.com**
+- 📚 Rreading **Clean Code: A Handbook of Agile Software Craftsmanship**
 
 - 🎮 Activities **Gaming, Ping Pong**
+
+- 📫 Reach me **asamir.ahmed01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
