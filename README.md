@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ARKit, SwiftUI, Combine, and django**
 
-- 💬 I’m currently learning **Clean Code: A Handbook of Agile Software Craftsmanship**
+- 📚 I’m currently reading **Clean Code: A Handbook of Agile Software Craftsmanship**
 
 - 📫 How to reach me **asamir.ahmed01@gmail.com**
 
