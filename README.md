@@ -4,9 +4,9 @@
 
 - 💻 I’m currently a full-time iOS engineer at **Espace For Software Development**
 
-- 🌱 Learning **ARKit, SwiftUI, Combine, and django**
+- 🌱 Learning **ARKit, SwiftUI, Combine, and MERN**
 
-- 📚 Rreading **Clean Code: A Handbook of Agile Software Craftsmanship**
+- 📚 Rreading **Adcanced iOS App Architecture**
 
 - 🎮 Activities **Gaming, Ping Pong**
 
