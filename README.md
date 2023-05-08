@@ -2,11 +2,11 @@
 <h3 align="center">A passionate iOS engineer and noob gamer</h3>
 
 
-- 💻 I’m currently a full-time iOS engineer at **Espace For Software Development**
+- 💻 I’m currently a full-time iOS engineer at **TrianglZ LLC**
 
-- 🌱 Learning **ARKit, SwiftUI, Combine, and MERN**
+- 🌱 Learning **SwiftUI, Combine, and MERN**
 
-- 📚 Rreading **Adcanced iOS App Architecture**
+- 📚 Rreading **Clean Code By Robert C Martin**
 
 - 🎮 Activities **Gaming, Ping Pong**
 
