@@ -2,9 +2,9 @@
 <h3 align="center">A passionate iOS engineer and noob gamer</h3>
 
 
-- 💻 I’m currently a full-time iOS engineer at **TrianglZ LLC**
+- 💻 I’m currently a full-time iOS engineer at **Instabug**
 
-- 🌱 Learning **SwiftUI, Combine, and MERN**
+- 🌱 Learning **MERN Stack**
 
 - 📚 Rreading **Clean Code By Robert C Martin**
 
